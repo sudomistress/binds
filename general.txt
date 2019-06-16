@@ -5,16 +5,10 @@ shift+4 "inspexec_pet_name phenomenal_luck Thursday$$inspexec_pet_name good_luck
 shift+5 "inspexec_pet_name phenomenal_luck Friday$$inspexec_pet_name good_luck Friday$$inspexec_pet_name luck Friday"
 shift+7 "inspexec_pet_name enrage Weekend$$inspexec_pet_name focused_rage Weekend$$inspexec_pet_name righteous_rage Weekend"
 shift+8 "inspexec_pet_name insight Weekend$$inspexec_pet_name keen_insight Weekend$$inspexec_pet_name uncanny_insight Weekend"
-
 ctrl+1 "inspexec_pet_name resurgence Monday$$inspexec_pet_name dramatic_improvement Monday$$inspexec_pet_name respite Monday"
 ctrl+2 "inspexec_pet_name resurgence Tuesday$$inspexec_pet_name dramatic_improvement Tuesday$$inspexec_pet_name respite Tuesday"
 ctrl+3 "inspexec_pet_name resurgence Wednesday$$inspexec_pet_name dramatic_improvement Wednesday$$inspexec_pet_name respite Wednesday"
 ctrl+4 "inspexec_pet_name resurgence Thursday$$inspexec_pet_name dramatic_improvement Thursday$$inspexec_pet_name respite Thursday"
 ctrl+5 "inspexec_pet_name resurgence Friday$$inspexec_pet_name dramatic_improvement Friday$$inspexec_pet_name respite Friday"
 ctrl+6 "inspexec_pet_name resurgence Weekend$$inspexec_pet_name dramatic_improvement Weekend$$inspexec_pet_name respite Weekend"
-
-shift+r "target_name Theodor$$powexec_name Adrenalin_Boost$$g Go to town Mr. SpidDARH man!"
-shift+f "target_name Occi$$powexec_name Fortitude$$g I grant thee mighty protection Eeevil Barbanian!"
-
-
-
+shift+t "powexec_location camera:max Translocation"
