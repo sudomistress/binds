@@ -9,8 +9,11 @@ Used for making it easier to control pets, heal, etc.
 
 ## Load keybind file
 In the Chat window type /bindloadfile "D:\CoV\binds\...\...txt"
+
     Example: /bindloadfile "D:\CoV\binds\mm-ninja\all.txt"
+
 Replace the first ... with the folder name and the second with the name of the chosen file.
+
 **Note: Mastermind files are designed so once any of them are loaded, they can load others as needed for that mastermind.
 
 
