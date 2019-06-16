@@ -12,8 +12,6 @@ In the Chat window type /bindloadfile "DRIVE:\Pathto\binds\...\...txt"
 
     Example: /bindloadfile "D:\CoV\binds\mm-ninja\all.txt"
 
-Replace the first ... with the folder name and the second with the name of the chosen file.
-
 **Note: Mastermind files are designed so once any of them are loaded, they can load others as needed for that mastermind.**
 
 
