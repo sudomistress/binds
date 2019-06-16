@@ -1,7 +1,7 @@
-numpad0 bindloadfile "D:\CoV\binds\all.txt"
-numpad1 bindloadfile "D:\CoV\binds\genin.txt"
-numpad2 bindloadfile "D:\CoV\binds\ninjas.txt"
-numpad3 bindloadfile "D:\CoV\binds\oni.txt"
+numpad0 bindloadfile "D:\CoV\binds\mm-ninja\all.txt"
+numpad1 bindloadfile "D:\CoV\binds\mm-ninja\genin.txt"
+numpad2 bindloadfile "D:\CoV\binds\mm-ninja\ninjas.txt"
+numpad3 bindloadfile "D:\CoV\binds\mm-ninja\oni.txt"
 numpad4 petcom_all aggressive
 numpad5 petcom_all defensive
 numpad6 petcom_all passive

@@ -1,7 +1,7 @@
-numpad0 bindloadfile "D:\CoV\binds\all.txt"
-numpad1 bindloadfile "D:\CoV\binds\zombiehorde.txt"
-numpad2 bindloadfile "D:\CoV\binds\graveknight.txt"
-numpad3 bindloadfile "D:\CoV\binds\lich.txt"
+numpad0 bindloadfile "D:\CoV\binds\mm-necromancy\bloodall.txt"
+numpad1 bindloadfile "D:\CoV\binds\mm-necromancy\zombiehorde.txt"
+numpad2 bindloadfile "D:\CoV\binds\mm-necromancy\graveknight.txt"
+numpad3 bindloadfile "D:\CoV\binds\mm-necromancy\lich.txt"
 numpad4 petcom_pow Grave Knight aggressive
 numpad5 petcom_pow Grave Knight defensive
 numpad6 petcom_pow Grave Knight passive
