@@ -2,13 +2,13 @@ numpad0 bindloadfile "D:\CoV\binds\mm-beast\allbeasts.txt"
 numpad1 bindloadfile "D:\CoV\binds\mm-beast\wolves.txt"
 numpad2 bindloadfile "D:\CoV\binds\mm-beast\lions.txt"
 numpad3 bindloadfile "D:\CoV\binds\mm-beast\direwolf.txt"
-numpad4 petcom_pow Summon Wolves aggressive
-numpad5 petcom_pow Summon Wolves defensive
-numpad6 petcom_pow Summon Wolves passive
-numpad7 petcom_pow Summon Wolves attack
-numpad8 petcom_pow Summon Wolves follow
-numpad9 petcom_pow Summon Wolves goto
-lctrl+decimal petcom_pow Summon Wolves dismiss
+numpad4 petcom_pow wolves aggressive
+numpad5 petcom_pow wolves defensive
+numpad6 petcom_pow wolves passive
+numpad7 petcom_pow wolves attack
+numpad8 petcom_pow wolves follow
+numpad9 petcom_pow wolves goto
+lctrl+decimal petcom_pow wolves dismiss
 divide powexec_location me summon wolves
 multiply powexec_location me summon lions
 subtract powexec_location me summon dire wolf
