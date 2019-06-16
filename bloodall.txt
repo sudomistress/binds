@@ -1,0 +1,16 @@
+numpad0 bindloadfile "D:\CoV\binds\bloodall.txt"
+numpad1 bindloadfile "D:\CoV\binds\zombiehorde.txt"
+numpad2 bindloadfile "D:\CoV\binds\graveknight.txt"
+numpad3 bindloadfile "D:\CoV\binds\lich.txt"
+numpad4 petcom_all aggressive
+numpad5 petcom_all defensive
+numpad6 petcom_all passive
+numpad7 petcom_all attack
+numpad8 petcom_all follow
+numpad9 petcom_all goto
+lctrl+decimal petcom_all dismiss
+divide powexec_location me Zombie Horde
+multiply powexec_location me Grave Knight
+subtract powexec_location me Lich
+add powexec_name Enchant Undead
+numpadenter powexec_name Dark Empowerment
