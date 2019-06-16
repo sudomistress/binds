@@ -17,3 +17,5 @@ In the Chat window type /bindloadfile "DRIVE:\Pathto\binds\...\...txt"
 
 # Resoureces
 This would not have been possible without the information I discovered in various locations. Where applicable, the links will go to the specific place.
+
+Where I started: https://paragonwiki.com/wiki/Mastermind_Numpad_Pet_Controls

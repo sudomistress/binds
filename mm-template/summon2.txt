@@ -1,0 +1,16 @@
+numpad0 bindloadfile "D:\CoV\binds\FOLDER\all.txt"
+numpad1 bindloadfile "D:\CoV\binds\FOLDER\summon1.txt"
+numpad2 bindloadfile "D:\CoV\binds\FOLDER\summon2.txt"
+numpad3 bindloadfile "D:\CoV\binds\FOLDER\summon3.txt"
+numpad4 petcom_pow PETNAME aggressive
+numpad5 petcom_pow PETNAME defensive
+numpad6 petcom_pow PETNAME passive
+numpad7 petcom_pow PETNAME attack
+numpad8 petcom_pow PETNAME follow
+numpad9 petcom_pow PETNAME goto
+lctrl+decimal petcom_pow PETNAME dismiss
+divide powexec_location me SUMMONPETPOWER1
+multiply powexec_location me SUMMONPETPOWER2
+subtract powexec_location me SUMMONPETPOWER3
+add powexec_name UPGRADEPETPOWER1
+numpadenter powexec_name UPGRADEPETPOWER2
