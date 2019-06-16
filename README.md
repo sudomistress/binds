@@ -8,7 +8,7 @@ Used for making it easier to control pets, heal, etc.
 ## Basic How to
 
 ## Load keybind file
-In the Chat window type /bindloadfile "D:\CoV\binds\...\...txt"
+In the Chat window type /bindloadfile "DRIVE:\Pathto\binds\...\...txt"
 
     Example: /bindloadfile "D:\CoV\binds\mm-ninja\all.txt"
 
