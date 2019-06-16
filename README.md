@@ -14,7 +14,7 @@ In the Chat window type /bindloadfile "D:\CoV\binds\...\...txt"
 
 Replace the first ... with the folder name and the second with the name of the chosen file.
 
-**Note: Mastermind files are designed so once any of them are loaded, they can load others as needed for that mastermind.
+**Note: Mastermind files are designed so once any of them are loaded, they can load others as needed for that mastermind.**
 
 
 # Resoureces
